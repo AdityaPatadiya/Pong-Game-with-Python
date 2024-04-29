@@ -11,12 +11,12 @@ Ball movement: The ball moves across the screen, bouncing off walls and paddles.
 
 ## How to Play:
 
-*Player 1 (Right Paddle):
-  *Move Up: Up arrow key
-  *Move Down: Down arrow key
-*Player 2 (Left Paddle):
-  *Move Up: "w" key
-  *Move Down: "s" key
+* Player 1 (Right Paddle):
+  * Move Up: Up arrow key
+  * Move Down: Down arrow key
+* Player 2 (Left Paddle):
+  * Move Up: "w" key
+  * Move Down: "s" key
 
 ## Dependencies:
 
@@ -28,8 +28,8 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 
 ## Credits:
 
-Developed by `Aditya Patadiya`
-Inspired by the classic game Pong
+* Developed by `Aditya Patadiya`.
+* Inspired by the classic game Pong
 
 
 ## Here's the demonstrated video
